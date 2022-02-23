@@ -22,17 +22,5 @@
     "companyId": "SJV0-wdOM",
     "title": "DevOps Engineer",
     "description": "We need somebody to restart the server when they fall over"
-  },
-  {
-    "id": "r1HrYZnJq",
-    "companyId": "SJV0-wdOM",
-    "title": "Tester",
-    "description": "Must be good at finding bugs"
-  },
-  {
-    "id": "SkSbAb315",
-    "title": "Project Manager",
-    "description": "Give work to the devs",
-    "companyId": "HJRa-DOuG"
   }
 ]
